@@ -1,2 +1,2 @@
 # datasciencecoursera
-Test repo for Coursers
+Test repo for Coursera
